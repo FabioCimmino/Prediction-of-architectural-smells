@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="boxPlotInternals">
+<entry key="numberOf" type="xint" value="4"/>
+<config key="colSpec0">
+<entry key="column_name" type="xstring" value="Selected-attributes_CV"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.38101265822784813"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.44303797468354433"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="colSpec1">
+<entry key="column_name" type="xstring" value="Selected-Attributes_B-validation"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.6163926002055499"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.6163926002055499"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="colSpec2">
+<entry key="column_name" type="xstring" value="All-attributes_CV"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.3688212927756654"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.4278481012658228"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="colSpec3">
+<entry key="column_name" type="xstring" value="All-Attributes_B-validation"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.6163926002055499"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.6163926002055499"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="statsSelected-attributes_CV">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xdouble" value="0.38101265822784813"/>
+<entry key="1" type="xdouble" value="0.38101265822784813"/>
+<entry key="2" type="xdouble" value="0.3911392405063291"/>
+<entry key="3" type="xdouble" value="0.40468306300235835"/>
+<entry key="4" type="xdouble" value="0.41265822784810124"/>
+<entry key="5" type="xdouble" value="0.44303797468354433"/>
+<entry key="6" type="xdouble" value="0.44303797468354433"/>
+</config>
+<config key="mildrowSelected-attributes_CV"/>
+<config key="mildSelected-attributes_CV">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="extremerowSelected-attributes_CV"/>
+<config key="extremeSelected-attributes_CV">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="statsSelected-Attributes_B-validation">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xdouble" value="0.6163926002055499"/>
+<entry key="1" type="xdouble" value="0.6163926002055499"/>
+<entry key="2" type="xdouble" value="0.6163926002055499"/>
+<entry key="3" type="xdouble" value="0.6163926002055499"/>
+<entry key="4" type="xdouble" value="0.6163926002055499"/>
+<entry key="5" type="xdouble" value="0.6163926002055499"/>
+<entry key="6" type="xdouble" value="0.6163926002055499"/>
+</config>
+<config key="mildrowSelected-Attributes_B-validation"/>
+<config key="mildSelected-Attributes_B-validation">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="extremerowSelected-Attributes_B-validation"/>
+<config key="extremeSelected-Attributes_B-validation">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="statsAll-attributes_CV">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xdouble" value="0.3688212927756654"/>
+<entry key="1" type="xdouble" value="0.3688212927756654"/>
+<entry key="2" type="xdouble" value="0.3911392405063291"/>
+<entry key="3" type="xdouble" value="0.39556962025316456"/>
+<entry key="4" type="xdouble" value="0.4253164556962025"/>
+<entry key="5" type="xdouble" value="0.4278481012658228"/>
+<entry key="6" type="xdouble" value="0.4278481012658228"/>
+</config>
+<config key="mildrowAll-attributes_CV"/>
+<config key="mildAll-attributes_CV">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="extremerowAll-attributes_CV"/>
+<config key="extremeAll-attributes_CV">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="statsAll-Attributes_B-validation">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xdouble" value="0.6163926002055499"/>
+<entry key="1" type="xdouble" value="0.6163926002055499"/>
+<entry key="2" type="xdouble" value="0.6163926002055499"/>
+<entry key="3" type="xdouble" value="0.6163926002055499"/>
+<entry key="4" type="xdouble" value="0.6163926002055499"/>
+<entry key="5" type="xdouble" value="0.6163926002055499"/>
+<entry key="6" type="xdouble" value="0.6163926002055499"/>
+</config>
+<config key="mildrowAll-Attributes_B-validation"/>
+<config key="mildAll-Attributes_B-validation">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="extremerowAll-Attributes_B-validation"/>
+<config key="extremeAll-Attributes_B-validation">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+</config>
